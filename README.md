@@ -25,4 +25,4 @@ The model uses  algorithm with `accuracy_score` and `f1_score` as evaluation met
 
 # Conclusion
 
-In this project, I leveraged the power of machine learning and employed the decision tree recursive algorithm to construct a robust and highly accurate ML classifier. The main goal was to predict the customers' satisfaction of the services providedd, and we achieved an accuracy of 74% in the KNN and Decision Tree models.
+In this project, I leveraged the power of machine learning and employed the decision tree recursive algorithm to construct a robust, feature-efficient, and highly accurate ML classifier. The main goal was to predict the customers' satisfaction of the services provided. The model achieves an accuracy of 74% with both the KNN and Decision Tree models.
